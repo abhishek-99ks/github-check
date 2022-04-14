@@ -1,0 +1,39 @@
+### Front-End
+new-frontend/node_modules
+new-frontend/README.md
+new-frontend/.pnp
+new-frontend/.pnp.js
+
+new-frontend/.DS_Store
+new-frontend/.env.local
+new-frontend/.env.development.local
+new-frontend/.env.test.local
+new-frontend/.env.production.local
+
+new-frontend/npm-debug.log*
+
+
+### Back-End ###
+HELP.md
+target/
+!demo/.mvn/wrapper/maven-wrapper.jar
+!demo/**/src/main/**/target/
+!demo/**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+demo/.idea
+demo/*.iws
+demo/*.iml
+demo/*.ipr
+
+### VS Code ###
+.vscode/
